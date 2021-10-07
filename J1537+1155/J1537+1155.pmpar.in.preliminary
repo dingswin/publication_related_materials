@@ -1,7 +1,6 @@
 ### positions for J1537+1155
+### positional uncertainties do not include systematic errors
 ### pmpar format
-#name = J1537+1155
-#ref = J1537+1155
 epoch = 57964.000000
 #pi = 0
 # decimalyear RA +/- Dec +/-
